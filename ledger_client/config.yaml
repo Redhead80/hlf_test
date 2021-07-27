@@ -1,0 +1,8 @@
+application:
+  port: 8080
+
+client:
+  connection_profile: "connection-org1.yaml"
+  user_name: "User1"
+  organization: "Org1"
+  channel: "primary"
